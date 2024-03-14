@@ -1,0 +1,95 @@
+[
+    {
+        "categories": {
+            "name_ru": "\u0424\u043b\u0430\u0433\u0448\u0442\u043e\u043a",
+            "name_uz": "Flag stok",
+            "products": [
+                {
+                    "name_ru": "\u0432\u043d\u0435\u0448\u043d\u0438\u0439",
+                    "name_uz": "tashqi"
+                },
+                {
+                    "name_ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439",
+                    "name_uz": "ichki"
+                }
+            ]
+        }
+    },
+    {
+        "categories": {
+            "name_ru": "\u0423\u0440\u043d\u044b \u0434\u043b\u044f \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f",
+            "name_uz": "Ovoz berish Qutilari",
+            "products": [
+                {
+                    "name_ru": "\u041f\u043e\u0440\u0442\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043a\u043e\u0440\u043e\u0431\u043a\u0430",
+                    "name_uz": "Ko'chma Quti"
+                },
+                {
+                    "name_ru": "\u0421\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440 \u043a\u043e\u0440\u043e\u0431\u043a\u0430 - \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439 60 \u0441\u043c",
+                    "name_uz": "Stacionar Quti - kichik 60 sm"
+                },
+                {
+                    "name_ru": "\u0421\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440 \u043a\u043e\u0440\u043e\u0431\u043a\u0430 - \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439 80 \u0441\u043c",
+                    "name_uz": "Stacionar Quti - kichik 80 sm"
+                },
+                {
+                    "name_ru": "\u0421\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440 \u043a\u043e\u0440\u043e\u0431\u043a\u0430 - \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439 100 \u0441\u043c",
+                    "name_uz": "Stacionar Quti - kichik 100 sm"
+                }
+            ]
+        }
+    },
+    {
+        "categories": {
+            "name_ru": "\u041a\u0430\u0431\u0438\u043d\u044b \u0434\u043b\u044f \u0442\u0430\u0439\u043d\u043e\u0433\u043e \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f",
+            "name_uz": "Yashirin ovoz berish kabinalari",
+            "products": [
+                {
+                    "name_ru": "Переносная кабина",
+                    "name_uz": "Ko'chma kabina"
+                },
+                {
+                    "name_ru": "2 комнатные кабины",
+                    "name_uz": "2 xonali kabinalar"
+                },
+                {
+                    "name_ru": "3 комнатные кабины",
+                    "name_uz": "3 xonali kabinalar"
+                },
+                {
+                    "name_ru": "4 комнатные кабины",
+                    "name_uz": "4 xonali kabinalar"
+                }
+            ]
+        }
+    },
+    {
+        "categories": {
+            "name_ru": "Государственный флаг",
+            "name_uz": "Davlat bayrogi",
+            "products": [
+                {
+                    "name_ru": "Государственный флаг Республики Каракалпакстан",
+                    "name_uz": "Qoraqolpag'iston Respublikasi Davlat bayrog'i"
+                },
+                {
+                    "name_ru": "Государственный флаг Республики Узбекистан",
+                    "name_uz": "O'zbekiston Respublikasi Davlat bayrog'i"
+                }
+            ]
+        }
+    },
+    {
+        "categories": {
+            "name_ru": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0433\u0435\u0440\u0431",
+            "name_uz": "Davlat gerbi",
+            "products": [
+                {
+                    "name_ru": "Государственный Герб Республики Узбекистан",
+                    "name_uz": "O'zbekiston Respublikasi Davlat gerbi"
+                }
+            ]
+        }
+    }
+]
+

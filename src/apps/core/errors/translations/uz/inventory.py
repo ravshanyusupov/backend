@@ -1,0 +1,15 @@
+ERROR_CODES = {
+    4000: "Ta'rif qilingan omborxona sizning tumaningizga tegishli emas.",
+    4001: "Ta'rif qilingan omborxona id bazada mavjud emas.",
+    4002: "Ob'ekt topilmadi.",
+    4003: "Ta'rif qilingan raqamli inventarni aktga qo'sha olmaysiz.",
+    4004: "Ta'rif qilingan akt sizning hududingizga tegishli emas.",
+    4005: "Ta'rif qilingan aktni o'zgartira olmaysiz",
+    4006: "'Tuman' maydoni bo'sh bo'lishi kerak.",
+    4007: "Ta'rif qilingan mintaqasi sizning mintaqangizga mos emas.",
+    4008: "Tuman haqida ma'lumot berilmagan.",
+    4009: "Ushbu mintaqa uchun noto'g'ri tuman.",
+    4010: "Ta'rif qilingan tuman sizning tumaningizga mos kelmadi.",
+    4011: "Sizga ushbu ob'ektda ushbu amalni bajarish ruxsat berilmagan.",
+    4012: "Inventory numberlar noto'g'ri",
+}

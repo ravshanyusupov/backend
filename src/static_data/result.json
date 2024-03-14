@@ -1,0 +1,1834 @@
+[
+    {
+        "districts": [
+            {
+                "name_uz": "Nukus shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0443\u043a\u0443\u0441",
+                "name_en": "Nukus city",
+                "name_cyr": "\u041d\u0443\u043a\u0443\u0441 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2317,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Buzatov tumani",
+                "name_ru": "\u0411\u0443\u0437\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Buzatov district",
+                "name_cyr": "\u0411\u0443\u0437\u0430\u0442\u043e\u0432 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2303,
+                "order_number": 17
+            },
+            {
+                "name_uz": "Amudaryo tumani",
+                "name_ru": "\u0410\u043c\u0443\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Amudarya district",
+                "name_cyr": "\u0410\u043c\u0443\u0434\u0430\u0440\u0451 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2301,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Beruniy tumani",
+                "name_ru": "\u0411\u0435\u0440\u0443\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Beruniy district",
+                "name_cyr": "\u0411\u0435\u0440\u0443\u043d\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2302,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Kegeyli tumani",
+                "name_ru": "\u041a\u0435\u0433\u0435\u0439\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kegeyli district",
+                "name_cyr": "\u041a\u0435\u0433\u0435\u0439\u043b\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2304,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Qonliko'l tumani",
+                "name_ru": "\u041a\u0430\u043d\u043b\u044b\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kanlikul district",
+                "name_cyr": "\u049a\u043e\u043d\u043b\u0438\u043a\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2313,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Qorao'zak tumani",
+                "name_ru": "\u041a\u0430\u0440\u0430\u0443\u0437\u044f\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Karauzak district",
+                "name_cyr": "\u049a\u043e\u0440\u0430\u045e\u0437\u0430\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2314,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Qo'ng'irot tumani",
+                "name_ru": "\u041a\u0443\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kungirat district",
+                "name_cyr": "\u049a\u045e\u043d\u0493\u0438\u0440\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2315,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Mo'ynoq tumani",
+                "name_ru": "\u041c\u0443\u0439\u043d\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Muynak district",
+                "name_cyr": "\u041c\u045e\u0439\u043d\u043e\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2305,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Nukus tumani",
+                "name_ru": "\u041d\u0443\u043a\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Nukus district",
+                "name_cyr": "\u041d\u0443\u043a\u0443\u0441 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2306,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Taxtako'pir tumani",
+                "name_ru": "\u0422\u0430\u0445\u0442\u0430\u043a\u0443\u043f\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Taxtakupir district",
+                "name_cyr": "\u0422\u0430\u0445\u0442\u0430\u043a\u045e\u043f\u0438\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2307,
+                "order_number": 10
+            },
+            {
+                "name_uz": "To'rtko'l tumani",
+                "name_ru": "\u0422\u0443\u0440\u0442\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Turtkul district",
+                "name_cyr": "\u0422\u045e\u0440\u0442\u043a\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2308,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Xo'jayli tumani",
+                "name_ru": "\u0425\u043e\u0434\u0436\u0435\u0439\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Xujayli district",
+                "name_cyr": "\u0425\u045e\u0436\u0430\u0439\u043b\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2309,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Chimboy tumani",
+                "name_ru": "\u0427\u0438\u043c\u0431\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chimbay district",
+                "name_cyr": "\u0427\u0438\u043c\u0431\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2310,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Shumanay tumani",
+                "name_ru": "\u0428\u0443\u043c\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shumanay district",
+                "name_cyr": "\u0428\u0443\u043c\u0430\u043d\u0430\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2311,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Ellikqal'a tumani",
+                "name_ru": "\u042d\u043b\u043b\u0438\u043a\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Ellikkala district",
+                "name_cyr": "\u042d\u043b\u043b\u0438\u043a\u049b\u0430\u043b\u044a\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2312,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Taxiatosh tumani",
+                "name_ru": "\u0422\u0430\u0445\u0438\u0430\u0442\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Takhiatash district",
+                "name_cyr": "\u0422\u0430\u0445\u0438\u0430\u0442\u043e\u0448 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2318,
+                "order_number": 16
+            }
+        ],
+        "region": {
+            "name_uz": "QORAQALPOG'ISTON RESPUBLIKASI",
+            "name_ru": "\u0420\u0415\u0421\u041f\u0423\u0411\u041b\u0418\u041a\u0410 \u041a\u0410\u0420\u0410\u041a\u0410\u041b\u041f\u0410\u041a\u0421\u0422\u0410\u041d",
+            "name_en": "REPUBLIC OF KARAKALPAKSTAN",
+            "name_cyr": "\u049a\u041e\u0420\u0410\u049a\u0410\u041b\u041f\u041e\u0492\u0418\u0421\u0422\u041e\u041d \u0420E\u0421\u041f\u0423\u0411\u041b\u0418\u041a\u0410\u0421\u0418",
+            "cadastr_id": 23,
+            "order_number": 1
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Andijon shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043d\u0434\u0438\u0436\u0430\u043d",
+                "name_en": "Andijan city",
+                "name_cyr": "\u0410\u043d\u0434\u0438\u0436\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1715,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Xonobod shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0425\u0430\u043d\u0430\u0431\u0430\u0434",
+                "name_en": "Khanabad city",
+                "name_cyr": "\u0425\u043e\u043d\u043e\u0431\u043e\u0434 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1717,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Andijon tumani",
+                "name_ru": "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Andijan district",
+                "name_cyr": "\u0410\u043d\u0434\u0438\u0436\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1701,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Asaka tumani",
+                "name_ru": "\u0410\u0441\u0430\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Asaka district",
+                "name_cyr": "\u0410\u0441\u0430\u043a\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1702,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Baliqchi tumani",
+                "name_ru": "\u0411\u0430\u043b\u044b\u043a\u0447\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Balikchi district",
+                "name_cyr": "\u0411\u0430\u043b\u0438\u049b\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1703,
+                "order_number": 16
+            },
+            {
+                "name_uz": "Bo'ston tumani",
+                "name_ru": "\u0411\u0443\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Buston district",
+                "name_cyr": "\u0411\u045e\u0441\u0442\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1705,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Buloqboshi tumani",
+                "name_ru": "\u0411\u0443\u043b\u0430\u043a\u0431\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bulakbashi district",
+                "name_cyr": "\u0411\u0443\u043b\u043e\u049b\u0431\u043e\u0448\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1704,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Jalolquduq tumani",
+                "name_ru": "\u0414\u0436\u0430\u043b\u0430\u043a\u0443\u0434\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Jalalkuduk district",
+                "name_cyr": "\u0416\u0430\u043b\u043e\u043b\u049b\u0443\u0434\u0443\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1706,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Izboskan tumani",
+                "name_ru": "\u0418\u0437\u0431\u0430\u0441\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Izbaskan district",
+                "name_cyr": "\u0418\u0437\u0431\u043e\u0441\u043a\u0430\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1707,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Ulug'nor tumani",
+                "name_ru": "\u0423\u043b\u0443\u0433\u043d\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Ulugnor district",
+                "name_cyr": "\u0423\u043b\u0443\u0493\u043d\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1711,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Marhamat tumani",
+                "name_ru": "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Marhamat district",
+                "name_cyr": "\u041c\u0430\u0440\u04b3\u0430\u043c\u0430\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1708,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Oltinko'l tumani",
+                "name_ru": "\u0410\u043b\u0442\u044b\u043d\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Oltinkol district",
+                "name_cyr": "\u041e\u043b\u0442\u0438\u043d\u043a\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1709,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Paxtaobod tumani",
+                "name_ru": "\u041f\u0430\u0445\u0442\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Pakhtaabad district",
+                "name_cyr": "\u041f\u0430\u0445\u0442\u0430\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1710,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Xo'jaobod tumani",
+                "name_ru": "\u0425\u043e\u0434\u0436\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Khodjaobad district",
+                "name_cyr": "\u0425\u045e\u0436\u0430\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1712,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Shaxrixon tumani",
+                "name_ru": "\u0428\u0430\u0445\u0440\u0438\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shakhrihon district",
+                "name_cyr": "\u0428\u0430\u0445\u0440\u0438\u0445\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1713,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Qo'rg'ontepa tumani",
+                "name_ru": "\u041a\u0443\u0440\u0433\u0430\u043d\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kurgontepa district",
+                "name_cyr": "\u049a\u045e\u0440\u0493\u043e\u043d\u0442\u0435\u043f\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1714,
+                "order_number": 14
+            }
+        ],
+        "region": {
+            "name_uz": "ANDIJON VILOYATI",
+            "name_ru": "\u0410\u041d\u0414\u0418\u0416\u0410\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "ANDIJAN REGION",
+            "name_cyr": "\u0410\u041d\u0414\u0418\u0416\u041e\u041d \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 17,
+            "order_number": 2
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Buxoro shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0411\u0443\u0445\u0430\u0440\u0430",
+                "name_en": "Bukhara city",
+                "name_cyr": "\u0411\u0443\u0445\u043e\u0440\u043e \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2012,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Kogon shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u0430\u0433\u0430\u043d",
+                "name_en": "Kagan district",
+                "name_cyr": "\u041a\u043e\u0433\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2014,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Buxoro tumani",
+                "name_ru": "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bukhara district",
+                "name_cyr": "\u0411\u0443\u0445\u043e\u0440\u043e \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2001,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Vobkent tumani",
+                "name_ru": "\u0412\u0430\u0431\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Vabkent district",
+                "name_cyr": "\u0412\u043e\u0431\u043a\u0435\u043d\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2002,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Jondor tumani",
+                "name_ru": "\u0416\u043e\u043d\u0434\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Jondor district",
+                "name_cyr": "\u0416\u043e\u043d\u0434\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2003,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Kogon tumani",
+                "name_ru": "\u041a\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kagan district",
+                "name_cyr": "\u041a\u043e\u0433\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2004,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Olot tumani",
+                "name_ru": "\u0410\u043b\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Alat district",
+                "name_cyr": "\u041e\u043b\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2005,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Peshku tumani",
+                "name_ru": "\u041f\u0435\u0448\u043a\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Peshku district",
+                "name_cyr": "\u041f\u0435\u0448\u043a\u0443 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2006,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Romitan tumani",
+                "name_ru": "\u0420\u043e\u043c\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Romitan district",
+                "name_cyr": "\u0420\u043e\u043c\u0438\u0442\u0430\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2007,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Shofirkon tumani",
+                "name_ru": "\u0428\u0430\u0444\u0438\u0440\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shafirkan district",
+                "name_cyr": "\u0428\u043e\u0444\u0438\u0440\u043a\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2008,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Qorako'l tumani",
+                "name_ru": "\u041a\u0430\u0440\u0430\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Karakul district",
+                "name_cyr": "\u049a\u043e\u0440\u0430\u043a\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2010,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Qorovulbozor tumani",
+                "name_ru": "\u041a\u0430\u0440\u0430\u0443\u043b\u0431\u0430\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Karaulbazar district",
+                "name_cyr": "\u049a\u043e\u0440\u043e\u0432\u0443\u043b\u0431\u043e\u0437\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2009,
+                "order_number": 12
+            },
+            {
+                "name_uz": "G'ijduvon tumani",
+                "name_ru": "\u0413\u0438\u0436\u0434\u0443\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Gijduvan district",
+                "name_cyr": "\u0492\u0438\u0436\u0434\u0443\u0432\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2011,
+                "order_number": 13
+            }
+        ],
+        "region": {
+            "name_uz": "BUXORO VILOYATI",
+            "name_ru": "\u0411\u0423\u0425\u0410\u0420\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "BUKHARA REGION",
+            "name_cyr": "\u0411\u0423\u0425\u041e\u0420\u041e \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 20,
+            "order_number": 3
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Jizzax shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0414\u0436\u0438\u0437\u0430\u043a",
+                "name_en": "Jizzakh city",
+                "name_cyr": "\u0416\u0438\u0437\u0437\u0430\u0445 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1313,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Arnasoy tumani",
+                "name_ru": "\u0410\u0440\u043d\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Arnasay district",
+                "name_cyr": "\u0410\u0440\u043d\u0430\u0441\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1301,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Baxmal tumani",
+                "name_ru": "\u0411\u0430\u0445\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bakhmal district",
+                "name_cyr": "\u0411\u0430\u0445\u043c\u0430\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1302,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Do'stlik tumani",
+                "name_ru": "\u0414\u0443\u0441\u0442\u043b\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Dustlik district",
+                "name_cyr": "\u0414\u045e\u0441\u0442\u043b\u0438\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1305,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Sharof Rashidov tumani",
+                "name_ru": "\u0428\u0430\u0440\u0430\u0444-\u0420\u0430\u0448\u0438\u0434\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sharof Rashidov district",
+                "name_cyr": "\u0428\u0430\u0440\u043e\u0444 \u0420\u0430\u0448\u0438\u0434\u043e\u0432 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1304,
+                "order_number": 1000
+            },
+            {
+                "name_uz": "Zarbdor tumani",
+                "name_ru": "\u0417\u0430\u0440\u0431\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Zarbdar district",
+                "name_cyr": "\u0417\u0430\u0440\u0431\u0434\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1306,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Zafarobod tumani",
+                "name_ru": "\u0417\u0430\u0444\u0430\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Zafarobod district",
+                "name_cyr": "\u0417\u0430\u0444\u0430\u0440\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1307,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Zomin tumani",
+                "name_ru": "\u0417\u0430\u0430\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Zaamin district",
+                "name_cyr": "\u0417\u043e\u043c\u0438\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1308,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Mirzacho'l tumani",
+                "name_ru": "\u041c\u0438\u0440\u0437\u0430\u0447\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Mirzachul district",
+                "name_cyr": "\u041c\u0438\u0440\u0437\u0430\u0447\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1309,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Paxtakor tumani",
+                "name_ru": "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Pakhtakor district",
+                "name_cyr": "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1310,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Forish tumani",
+                "name_ru": "\u0424\u0430\u0440\u0438\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Forish district",
+                "name_cyr": "\u0424\u043e\u0440\u0438\u0448 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1311,
+                "order_number": 11
+            },
+            {
+                "name_uz": "G'allaorol tumani",
+                "name_ru": "\u0413\u0430\u043b\u043b\u044f\u0430\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Gallaorol district",
+                "name_cyr": "\u0492\u0430\u043b\u043b\u0430\u043e\u0440\u043e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1303,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Yangiobod tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangiabad district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1312,
+                "order_number": 13
+            }
+        ],
+        "region": {
+            "name_uz": "JIZZAX VILOYATI",
+            "name_ru": "\u0414\u0416\u0418\u0417\u0410\u041a\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "JIZZAKH REGION",
+            "name_cyr": "\u0416\u0418\u0417\u0417\u0410\u0425 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 13,
+            "order_number": 4
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Navoiy shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0430\u0432\u043e\u0438",
+                "name_en": "Navoi city",
+                "name_cyr": "\u041d\u0430\u0432\u043e\u0438\u0439 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2109,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Zarafshon shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0417\u0430\u0440\u0430\u0444\u0448\u0430\u043d",
+                "name_en": "Zarafshan city",
+                "name_cyr": "\u0417\u0430\u0440\u0430\u0444\u0448\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2110,
+                "order_number": 9
+            },
+            {
+                "name_uz": "G'ozg'on shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0413\u0430\u0437\u0433\u0430\u043d",
+                "name_en": "Gazgan city",
+                "name_cyr": "\u0492\u043e\u0437\u0493\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2112,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Karmana tumani",
+                "name_ru": "\u041a\u0430\u0440\u043c\u0430\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Karmana district",
+                "name_cyr": "\u041a\u0430\u0440\u043c\u0430\u043d\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2103,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Qiziltepa tumani",
+                "name_ru": "\u041a\u044b\u0437\u044b\u043b\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kyzyltepa district",
+                "name_cyr": "\u049a\u0438\u0437\u0438\u043b\u0442\u0435\u043f\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2108,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Konimex tumani",
+                "name_ru": "\u041a\u0430\u043d\u0438\u043c\u0435\u0445\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kanimekh district",
+                "name_cyr": "\u041a\u043e\u043d\u0438\u043c\u0435\u0445 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2101,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Nurota tumani",
+                "name_ru": "\u041d\u0443\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Nurata district",
+                "name_cyr": "\u041d\u0443\u0440\u043e\u0442\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2104,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Navbahor tumani",
+                "name_ru": "\u041d\u0430\u0432\u0431\u0430\u0445\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Navbakhor district",
+                "name_cyr": "\u041d\u0430\u0432\u0431\u0430\u04b3\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2102,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Xatirchi tumani",
+                "name_ru": "\u0425\u0430\u0442\u044b\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Khatyrchi district",
+                "name_cyr": "\u0425\u0430\u0442\u0438\u0440\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2107,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Uchquduq tumani",
+                "name_ru": "\u0423\u0447\u043a\u0443\u0434\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uchkuduk district",
+                "name_cyr": "\u0423\u0447\u049b\u0443\u0434\u0443\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2111,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Tomdi tumani",
+                "name_ru": "\u0422\u0430\u043c\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Tomdi district",
+                "name_cyr": "\u0422\u043e\u043c\u0434\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2105,
+                "order_number": 11
+            }
+        ],
+        "region": {
+            "name_uz": "NAVOIY VILOYATI",
+            "name_ru": "\u041d\u0410\u0412\u041e\u0418\u0419\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "NAVOI REGION",
+            "name_cyr": "\u041d\u0410\u0412\u041e\u0418\u0419 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 21,
+            "order_number": 5
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Namangan shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d",
+                "name_en": "Namangan city",
+                "name_cyr": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1612,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Davlatobod tumani",
+                "name_ru": "\u0414\u0430\u0432\u043b\u0430\u0442\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Davlatobod district",
+                "name_cyr": "\u0414\u0430\u0432\u043b\u0430\u0442\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1612,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Yangi Namangan tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438 \u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangi Namangan district",
+                "name_cyr": "\u042f\u043d\u0433\u0438 \u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1612,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Kosonsoy tumani",
+                "name_ru": "\u041a\u0430\u0441\u0430\u043d\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kasansay district",
+                "name_cyr": "\u041a\u043e\u0441\u043e\u043d\u0441\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1601,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Mingbuloq tumani",
+                "name_ru": "\u041c\u0438\u043d\u0433\u0431\u0443\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Mingbulak district",
+                "name_cyr": "\u041c\u0438\u043d\u0433\u0431\u0443\u043b\u043e\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1602,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Namangan tumani",
+                "name_ru": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Namangan district",
+                "name_cyr": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1603,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Norin tumani",
+                "name_ru": "\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Norin district",
+                "name_cyr": "\u041d\u043e\u0440\u0438\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1604,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Pop tumani",
+                "name_ru": "\u041f\u0430\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Pap district",
+                "name_cyr": "\u041f\u043e\u043f \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1605,
+                "order_number": 7
+            },
+            {
+                "name_uz": "To'raqo'rg'on tumani",
+                "name_ru": "\u0422\u0443\u0440\u0430\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Turakurgan district",
+                "name_cyr": "\u0422\u045e\u0440\u0430\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1606,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Uychi tumani",
+                "name_ru": "\u0423\u0439\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uychi district",
+                "name_cyr": "\u0423\u0439\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1607,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Uchqo'rg'on tumani",
+                "name_ru": "\u0423\u0447\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uchkurgan district",
+                "name_cyr": "\u0423\u0447\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1608,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Chortoq tumani",
+                "name_ru": "\u0427\u0430\u0440\u0442\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chartak district",
+                "name_cyr": "\u0427\u043e\u0440\u0442\u043e\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1609,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Chust tumani",
+                "name_ru": "\u0427\u0443\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chust district",
+                "name_cyr": "\u0427\u0443\u0441\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1610,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Yangiqo'rg'on tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangikurgan district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1611,
+                "order_number": 13
+            }
+        ],
+        "region": {
+            "name_uz": "NAMANGAN VILOYATI",
+            "name_ru": "\u041d\u0410\u041c\u0410\u041d\u0413\u0410\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "NAMANGAN REGION",
+            "name_cyr": "\u041d\u0410\u041c\u0410\u041d\u0413\u0410\u041d \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 16,
+            "order_number": 6
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Samarqand shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434",
+                "name_en": "Samarkand city",
+                "name_cyr": "\u0421\u0430\u043c\u0430\u0440\u049b\u0430\u043d\u0434 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1416,
+                "order_number": 16
+            },
+            {
+                "name_uz": "Kattaqo'rg'on shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u0430\u0442\u0442\u0430\u043a\u0443\u0440\u0433\u0430\u043d",
+                "name_en": "Kattakurgan city",
+                "name_cyr": "\u041a\u0430\u0442\u0442\u0430\u049b\u045e\u0440\u0493\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1405,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Bulung'ur tumani",
+                "name_ru": "\u0411\u0443\u043b\u0443\u043d\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bulungur district",
+                "name_cyr": "\u0411\u0443\u043b\u0443\u043d\u0493\u0443\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1401,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Jomboy tumani",
+                "name_ru": "\u0414\u0436\u0430\u043c\u0431\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Jomboy district",
+                "name_cyr": "\u0416\u043e\u043c\u0431\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1402,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Ishtixon tumani",
+                "name_ru": "\u0418\u0448\u0442\u044b\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Ishtikhon district",
+                "name_cyr": "\u0418\u0448\u0442\u0438\u0445\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1403,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Kattaqo'rg'on tumani",
+                "name_ru": "\u041a\u0430\u0442\u0442\u0430\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kattakurgan district",
+                "name_cyr": "\u041a\u0430\u0442\u0442\u0430\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1415,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Narpay tumani",
+                "name_ru": "\u041d\u0430\u0440\u043f\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Narpay district",
+                "name_cyr": "\u041d\u0430\u0440\u043f\u0430\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1406,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Nurobod tumani",
+                "name_ru": "\u041d\u0443\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Nurobod district",
+                "name_cyr": "\u041d\u0443\u0440\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1407,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Oqdaryo tumani",
+                "name_ru": "\u0410\u043a\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Oqdarya district",
+                "name_cyr": "\u041e\u049b\u0434\u0430\u0440\u0451 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1408,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Payariq tumani",
+                "name_ru": "\u041f\u0430\u0439\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Payariq district",
+                "name_cyr": "\u041f\u0430\u044f\u0440\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1409,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Pastdarg'om tumani",
+                "name_ru": "\u041f\u0430\u0441\u0442\u0434\u0430\u0440\u0433\u043e\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Pastdargom district",
+                "name_cyr": "\u041f\u0430\u0441\u0442\u0434\u0430\u0440\u0493\u043e\u043c \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1410,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Paxtachi tumani",
+                "name_ru": "\u041f\u0430\u0445\u0442\u0430\u0447\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Pakhtachi district",
+                "name_cyr": "\u041f\u0430\u0445\u0442\u0430\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1411,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Samarqand tumani",
+                "name_ru": "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Samarkand district",
+                "name_cyr": "\u0421\u0430\u043c\u0430\u0440\u049b\u0430\u043d\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1412,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Tayloq tumani",
+                "name_ru": "\u0422\u0430\u0439\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Taylak district",
+                "name_cyr": "\u0422\u0430\u0439\u043b\u043e\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1413,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Urgut tumani",
+                "name_ru": "\u0423\u0440\u0433\u0443\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Urgut district",
+                "name_cyr": "\u0423\u0440\u0433\u0443\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1414,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Qo'shrabot tumani",
+                "name_ru": "\u041a\u043e\u0448\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Koshrabot district",
+                "name_cyr": "\u049a\u045e\u0448\u0440\u0430\u0431\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1404,
+                "order_number": 7
+            }
+        ],
+        "region": {
+            "name_uz": "SAMARQAND VILOYATI",
+            "name_ru": "\u0421\u0410\u041c\u0410\u0420\u041a\u0410\u041d\u0414\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "SAMARKAND REGION",
+            "name_cyr": "\u0421\u0410\u041c\u0410\u0420\u049a\u0410\u041d\u0414 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 14,
+            "order_number": 7
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Guliston shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d",
+                "name_en": "Gulistan city",
+                "name_cyr": "\u0413\u0443\u043b\u0438\u0441\u0442\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1210,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Yangiyer shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u042f\u043d\u0433\u0438\u0435\u0440",
+                "name_en": "Yangiyer city",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u0435\u0440 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1211,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Shirin shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0428\u0438\u0440\u0438\u043d",
+                "name_en": "Shirin city",
+                "name_cyr": "\u0428\u0438\u0440\u0438\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1209,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Boyovut tumani",
+                "name_ru": "\u0411\u0430\u044f\u0443\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bayaut district",
+                "name_cyr": "\u0411\u043e\u0451\u0432\u0443\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1201,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Guliston tumani",
+                "name_ru": "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Gulistan district",
+                "name_cyr": "\u0413\u0443\u043b\u0438\u0441\u0442\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1202,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Mirzaobod tumani",
+                "name_ru": "\u041c\u0438\u0440\u0437\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Mirzaabad district",
+                "name_cyr": "\u041c\u0438\u0440\u0437\u0430\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1203,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Oqoltin tumani",
+                "name_ru": "\u0410\u043a\u0430\u043b\u0442\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Akaltyn district",
+                "name_cyr": "\u041e\u049b\u043e\u043b\u0442\u0438\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1204,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Sardoba tumani",
+                "name_ru": "\u0421\u0430\u0440\u0434\u043e\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sardoba district",
+                "name_cyr": "\u0421\u0430\u0440\u0434\u043e\u0431\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1205,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Sayxunobod tumani",
+                "name_ru": "\u0421\u0430\u0439\u0445\u0443\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Saikhunabad district",
+                "name_cyr": "\u0421\u0430\u0439\u0445\u0443\u043d\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1206,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Sirdaryo tumani",
+                "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sirdarya district",
+                "name_cyr": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1207,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Xovos tumani",
+                "name_ru": "\u0425\u0430\u0432\u0430\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Khavast district",
+                "name_cyr": "\u0425\u043e\u0432\u043e\u0441 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1208,
+                "order_number": 11
+            }
+        ],
+        "region": {
+            "name_uz": "SIRDARYO VILOYATI",
+            "name_ru": "\u0421\u042b\u0420\u0414\u0410\u0420\u042c\u0418\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "SIRDARYA REGION",
+            "name_cyr": "\u0421\u0418\u0420\u0414\u0410\u0420\u0401 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 12,
+            "order_number": 8
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Termiz shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0422\u0435\u0440\u043c\u0438\u0437",
+                "name_en": "Termiz city",
+                "name_cyr": "\u0422\u0435\u0440\u043c\u0438\u0437 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1915,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Angor tumani",
+                "name_ru": "\u0410\u043d\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Angor district",
+                "name_cyr": "\u0410\u043d\u0433\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1901,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Boysun tumani",
+                "name_ru": "\u0411\u0430\u0439\u0441\u0443\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Boysun district",
+                "name_cyr": "\u0411\u043e\u0439\u0441\u0443\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1903,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Bandixon tumani",
+                "name_ru": "\u0411\u0430\u043d\u0434\u0438\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bandikhon district",
+                "name_cyr": "\u0411\u0430\u043d\u0434\u0438\u0445\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1902,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Denov tumani",
+                "name_ru": "\u0414\u0435\u043d\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Denov district",
+                "name_cyr": "\u0414\u0435\u043d\u043e\u0432 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1904,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Jarqo'rg'on tumani",
+                "name_ru": "\u0414\u0436\u0430\u0440\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Jarkurghon district",
+                "name_cyr": "\u0416\u0430\u0440\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1905,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Qiziriq tumani",
+                "name_ru": "\u041a\u0438\u0437\u0438\u0440\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kizirik district",
+                "name_cyr": "\u049a\u0438\u0437\u0438\u0440\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1906,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Qumqo'rg'on tumani",
+                "name_ru": "\u041a\u0443\u043c\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kumkurghon district",
+                "name_cyr": "\u049a\u0443\u043c\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1907,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Muzrabot tumani",
+                "name_ru": "\u041c\u0443\u0437\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Muzrabot district",
+                "name_cyr": "\u041c\u0443\u0437\u0440\u0430\u0431\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1908,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Oltinsoy tumani",
+                "name_ru": "\u0410\u043b\u0442\u044b\u043d\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Altinsoy district",
+                "name_cyr": "\u041e\u043b\u0442\u0438\u043d\u0441\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1909,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Sariosiyo tumani",
+                "name_ru": "\u0421\u0430\u0440\u0438\u0430\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sariosiyo district",
+                "name_cyr": "\u0421\u0430\u0440\u0438\u043e\u0441\u0438\u0451 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1910,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Termiz tumani",
+                "name_ru": "\u0422\u0435\u0440\u043c\u0435\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Termiz district",
+                "name_cyr": "\u0422\u0435\u0440\u043c\u0438\u0437 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1911,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Uzun tumani",
+                "name_ru": "\u0423\u0437\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uzun district",
+                "name_cyr": "\u0423\u0437\u0443\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1912,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Sherobod tumani",
+                "name_ru": "\u0428\u0435\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sherabad district",
+                "name_cyr": "\u0428\u0435\u0440\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1913,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Sho'rchi tumani",
+                "name_ru": "\u0428\u0443\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shurchi district",
+                "name_cyr": "\u0428\u045e\u0440\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1914,
+                "order_number": 14
+            }
+        ],
+        "region": {
+            "name_uz": "SURXONDARYO VILOYATI",
+            "name_ru": "\u0421\u0423\u0420\u0425\u0410\u041d\u0414\u0410\u0420\u042c\u0418\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "SURKHANDARYA REGION",
+            "name_cyr": "\u0421\u0423\u0420\u0425\u041e\u041d\u0414\u0410\u0420\u0401 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 19,
+            "order_number": 9
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Angren shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043d\u0433\u0440\u0435\u043d",
+                "name_en": "Angren city",
+                "name_cyr": "\u0410\u043d\u0433\u0440\u0435\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1116,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Nurafshon shahar",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0443\u0440\u0430\u0444\u0448\u0430\u043d",
+                "name_en": "Nurafshon city",
+                "name_cyr": "\u041d\u0443\u0440\u043e\u0444\u0448\u043e\u043d \u0448\u0430\u0445\u0430\u0440",
+                "cadastr_id": 1121,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Bekobod shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u043a\u0430\u0431\u0430\u0434",
+                "name_en": "Bekabad city",
+                "name_cyr": "\u0411\u0435\u043a\u043e\u0431\u043e\u0434 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1117,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Olmaliq shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043b\u043c\u0430\u043b\u044b\u043a",
+                "name_en": "Almalyk city",
+                "name_cyr": "\u041e\u043b\u043c\u0430\u043b\u0438\u049b \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1118,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Chirchiq shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0427\u0438\u0440\u0447\u0438\u043a",
+                "name_en": "Chirchik city",
+                "name_cyr": "\u0427\u0438\u0440\u0447\u0438\u049b \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1120,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Ohangaron shahar",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u0445\u0430\u043d\u0433\u0430\u0440\u0430\u043d",
+                "name_en": "Ohangaron city",
+                "name_cyr": "\u041e\u0445\u043e\u043d\u0433\u0430\u0440\u043e\u043d \u0448\u0430\u0445\u0430\u0440",
+                "cadastr_id": 1119,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Toshkent tumani",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0422\u0430\u0448\u043a\u0435\u043d\u0442",
+                "name_en": "Toshkent district",
+                "name_cyr": "\u0422\u043e\u0448\u043a\u0435\u043d\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1111,
+                "order_number": 17
+            },
+            {
+                "name_uz": "Bekobod tumani",
+                "name_ru": "\u0411\u0435\u043a\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bekabad district",
+                "name_cyr": "\u0411\u0435\u043a\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1101,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Bo'ka tumani",
+                "name_ru": "\u0411\u0443\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d ",
+                "name_en": "Buka district",
+                "name_cyr": "\u0411\u045e\u043a\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1102,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Bo'stonliq tumani",
+                "name_ru": "\u0411\u043e\u0441\u0442\u0430\u043d\u043b\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bostanlik district",
+                "name_cyr": "\u0411\u045e\u0441\u0442\u043e\u043d\u043b\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1103,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Qibray tumani",
+                "name_ru": "\u041a\u0438\u0431\u0440\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kibray district",
+                "name_cyr": "\u049a\u0438\u0431\u0440\u0430\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1105,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Quyi Chirchiq tumani",
+                "name_ru": "\u041a\u0443\u0439\u0438\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Quyi Chirchik district",
+                "name_cyr": "\u049a\u0443\u0439\u0438 \u0427\u0438\u0440\u0447\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1106,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Oqqo'rg'on tumani",
+                "name_ru": "\u0410\u043a\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Akkurgan district",
+                "name_cyr": "\u041e\u049b\u049b\u045e\u0440\u0493\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1107,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Ohangaron tumani",
+                "name_ru": "\u0410\u0445\u0430\u043d\u0433\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Akhangaron district",
+                "name_cyr": "\u041e\u04b3\u0430\u043d\u0433\u0430\u0440\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1108,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Parkent tumani",
+                "name_ru": "\u041f\u0430\u0440\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Parkent district",
+                "name_cyr": "\u041f\u0430\u0440\u043a\u0435\u043d\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1109,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Piskent tumani",
+                "name_ru": "\u041f\u0441\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Piskent district",
+                "name_cyr": "\u041f\u0438\u0441\u043a\u0435\u043d\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1110,
+                "order_number": 16
+            },
+            {
+                "name_uz": "Zangiota tumani",
+                "name_ru": "\u0417\u0430\u043d\u0433\u0438\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Zangiata district",
+                "name_cyr": "\u0417\u0430\u043d\u0433\u0438\u043e\u0442\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1104,
+                "order_number": 18
+            },
+            {
+                "name_uz": "O'rta Chirchiq tumani",
+                "name_ru": "\u0423\u0440\u0442\u0430\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Orta Chirchik district",
+                "name_cyr": "\u040e\u0440\u0442\u0430 \u0427\u0438\u0440\u0447\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1112,
+                "order_number": 19
+            },
+            {
+                "name_uz": "Chinoz tumani",
+                "name_ru": "\u0427\u0438\u043d\u0430\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chinaz district",
+                "name_cyr": "\u0427\u0438\u043d\u043e\u0437 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1113,
+                "order_number": 20
+            },
+            {
+                "name_uz": "Yuqori Chirchiq tumani",
+                "name_ru": "\u042e\u043a\u043e\u0440\u0438\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yukori Chirchik district",
+                "name_cyr": "\u042e\u049b\u043e\u0440\u0438 \u0427\u0438\u0440\u0447\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1114,
+                "order_number": 21
+            },
+            {
+                "name_uz": "Yangiyo'l Shahar",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u042f\u043d\u0433\u0438\u0439\u0443\u043b",
+                "name_en": "Yangiyul city",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u0439\u0443\u0301\u043b \u0448\u0430\u0445\u0430\u0440",
+                "cadastr_id": 1122,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Yangiyo'l tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u044e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangiyol district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u0439\u045e\u043b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1115,
+                "order_number": 22
+            }
+        ],
+        "region": {
+            "name_uz": "TOSHKENT VILOYATI",
+            "name_ru": "\u0422\u0410\u0428\u041a\u0415\u041d\u0422\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "TASHKENT REGION",
+            "name_cyr": "\u0422\u041e\u0428\u041aE\u041d\u0422 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 11,
+            "order_number": 10
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Farg'ona shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0424\u0435\u0440\u0433\u0430\u043d\u0430",
+                "name_en": "Fergana city",
+                "name_cyr": "\u0424\u0430\u0440\u0493\u043e\u043d\u0430 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1520,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Marg'ilon shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041c\u0430\u0440\u0433\u0438\u043b\u0430\u043d",
+                "name_en": "Margilan city",
+                "name_cyr": "\u041c\u0430\u0440\u0493\u0438\u043b\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1519,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Quvasoy shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u0443\u0432\u0430\u0441\u0430\u0439",
+                "name_en": "Kuvasoy city",
+                "name_cyr": "\u049a\u0443\u0432\u0430\u0441\u043e\u0439 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1518,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Qo'qon shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u043e\u043a\u0430\u043d\u0434",
+                "name_en": "Kokand city",
+                "name_cyr": "\u049a\u045e\u049b\u043e\u043d \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1516,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Beshariq tumani",
+                "name_ru": "\u0411\u0435\u0448\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Besharik district",
+                "name_cyr": "\u0411\u0435\u0448\u0430\u0440\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1502,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Buvayda tumani",
+                "name_ru": "\u0411\u0443\u0432\u0430\u0439\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Buvayda district",
+                "name_cyr": "\u0411\u0443\u0432\u0430\u0439\u0434\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1503,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Bog'dod tumani",
+                "name_ru": "\u0411\u0430\u0433\u0434\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Baghdad district",
+                "name_cyr": "\u0411\u043e\u0493\u0434\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1501,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Dang'ara tumani",
+                "name_ru": "\u0414\u0430\u043d\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Dangara district",
+                "name_cyr": "\u0414\u0430\u043d\u0493\u0430\u0440\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1504,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Yozyovon tumani",
+                "name_ru": "\u042f\u0437\u044a\u044f\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yozyovon district",
+                "name_cyr": "\u0401\u0437\u0451\u0432\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1505,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Quva tumani",
+                "name_ru": "\u041a\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kuva district",
+                "name_cyr": "\u049a\u0443\u0432\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1506,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Oltiariq tumani",
+                "name_ru": "\u0410\u043b\u0442\u044b\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Altyarik district",
+                "name_cyr": "\u041e\u043b\u0442\u0438\u0430\u0440\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1507,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Qo'shtepa tumani",
+                "name_ru": "\u041a\u0443\u0448\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Koshtepa district",
+                "name_cyr": "\u049a\u045e\u0448\u0442\u0435\u043f\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1508,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Rishton tumani",
+                "name_ru": "\u0420\u0438\u0448\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Rishton district",
+                "name_cyr": "\u0420\u0438\u0448\u0442\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1509,
+                "order_number": 13
+            },
+            {
+                "name_uz": "So'x tumani",
+                "name_ru": "\u0421\u043e\u0445\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sokh district",
+                "name_cyr": "\u0421\u045e\u0445 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1510,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Toshloq tumani",
+                "name_ru": "\u0422\u0430\u0448\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Tashlak district",
+                "name_cyr": "\u0422\u043e\u0448\u043b\u043e\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1511,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Uchko'prik tumani",
+                "name_ru": "\u0423\u0447\u043a\u0443\u043f\u0440\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uchkuprik district",
+                "name_cyr": "\u0423\u0447\u043a\u045e\u043f\u0440\u0438\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1512,
+                "order_number": 17
+            },
+            {
+                "name_uz": "O'zbekiston tumani",
+                "name_ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uzbekistan district",
+                "name_cyr": "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1515,
+                "order_number": 16
+            },
+            {
+                "name_uz": "Furqat tumani",
+                "name_ru": "\u0424\u0443\u0440\u043a\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Furkat district",
+                "name_cyr": "\u0424\u0443\u0440\u049b\u0430\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1514,
+                "order_number": 19
+            },
+            {
+                "name_uz": "Farg'ona tumani",
+                "name_ru": "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Fergana district",
+                "name_cyr": "\u0424\u0430\u0440\u0493\u043e\u043d\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1513,
+                "order_number": 18
+            }
+        ],
+        "region": {
+            "name_uz": "FARG'ONA VILOYATI",
+            "name_ru": "\u0424\u0415\u0420\u0413\u0410\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "FERGANA REGION",
+            "name_cyr": "\u0424\u0410\u0420\u0492\u041e\u041d\u0410 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 15,
+            "order_number": 11
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Tuproqqal\u2019a tumani",
+                "name_ru": "\u0422\u0443\u043f\u0440\u0430\u043a\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Tuproqqala district",
+                "name_cyr": "\u0422\u0443\u043f\u0440\u043e\u049b\u049b\u0430\u043b\u044a\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2213,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Urganch shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0423\u0440\u0433\u0435\u043d\u0447",
+                "name_en": "Urganch city",
+                "name_cyr": "\u0423\u0440\u0433\u0430\u043d\u0447 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2211,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Bog'ot tumani",
+                "name_ru": "\u0411\u0430\u0433\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bagat district",
+                "name_cyr": "\u0411\u043e\u0493\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2201,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Gurlan tumani",
+                "name_ru": "\u0413\u0443\u0440\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Gurlen district",
+                "name_cyr": "\u0413\u0443\u0440\u043b\u0430\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2202,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Qo'shko'pir tumani",
+                "name_ru": "\u041a\u043e\u0448\u043a\u0443\u043f\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Koshkopir district",
+                "name_cyr": "\u049a\u045e\u0448\u043a\u045e\u043f\u0438\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2209,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Urganch tumani",
+                "name_ru": "\u0423\u0440\u0433\u0435\u043d\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Urganch district",
+                "name_cyr": "\u0423\u0440\u0433\u0430\u043d\u0447 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2203,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Xazorasp tumani",
+                "name_ru": "\u0425\u0430\u0437\u0430\u0440\u0430\u0441\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d ",
+                "name_en": "Hazorasp district",
+                "name_cyr": "\u0425\u0430\u0437\u043e\u0440\u0430\u0441\u043f \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2210,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Xonqa tumani",
+                "name_ru": "\u0425\u0430\u043d\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Khonqa district",
+                "name_cyr": "\u0425\u043e\u043d\u049b\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2204,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Xiva tumani",
+                "name_ru": "\u0425\u0438\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Khiva district",
+                "name_cyr": "\u0425\u0438\u0432\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2205,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Xiva shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0425\u0438\u0432a",
+                "name_en": "Khiva city",
+                "name_cyr": "\u0425\u0438\u0432\u0430 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 2212,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Shovot tumani",
+                "name_ru": "\u0428\u0430\u0432\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shovot district",
+                "name_cyr": "\u0428\u043e\u0432\u043e\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2206,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Yangiariq tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangiarik district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u0430\u0440\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2207,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Yangibozor tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u0431\u0430\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangibozor district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u0431\u043e\u0437\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 2208,
+                "order_number": 12
+            }
+        ],
+        "region": {
+            "name_uz": "XORAZM VILOYATI",
+            "name_ru": "\u0425\u041e\u0420\u0415\u0417\u041c\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "KHOREZM REGION",
+            "name_cyr": "\u0425\u041e\u0420\u0410\u0417\u041c \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 22,
+            "order_number": 12
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Qarshi shahri ",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u0430\u0440\u0448\u0438",
+                "name_en": "Karshi city",
+                "name_cyr": "\u049a\u0430\u0440\u0448\u0438 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1815,
+                "order_number": 1
+            },
+            {
+                "name_uz": "G'uzor tumani",
+                "name_ru": "\u0413\u0443\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Guzar district",
+                "name_cyr": "\u0492\u0443\u0437\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1814,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Dehqonobod tumani",
+                "name_ru": "\u0414\u0435\u0445\u043a\u0430\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Dehkanabad district",
+                "name_cyr": "\u0414\u0435\u04b3\u049b\u043e\u043d\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1802,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Qamashi tumani",
+                "name_ru": "\u041a\u0430\u043c\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kamashi district",
+                "name_cyr": "\u049a\u0430\u043c\u0430\u0448\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1812,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Qarshi tumani",
+                "name_ru": "\u041a\u0430\u0440\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Karshi district",
+                "name_cyr": "\u049a\u0430\u0440\u0448\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1813,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Kasbi tumani",
+                "name_ru": "\u041a\u0430\u0441\u0431\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kasby district",
+                "name_cyr": "\u041a\u0430\u0441\u0431\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1803,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Kitob tumani",
+                "name_ru": "\u041a\u0438\u0442\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kitob district",
+                "name_cyr": "\u041a\u0438\u0442\u043e\u0431 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1804,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Koson tumani",
+                "name_ru": "\u041a\u0430\u0441\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Koson district",
+                "name_cyr": "\u041a\u043e\u0441\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1805,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Mirishkor tumani",
+                "name_ru": "\u041c\u0438\u0440\u0438\u0448\u043a\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Myrishkor district",
+                "name_cyr": "\u041c\u0438\u0440\u0438\u0448\u043a\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1801,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Muborak tumani",
+                "name_ru": "\u041c\u0443\u0431\u0430\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Muborak district",
+                "name_cyr": "\u041c\u0443\u0431\u043e\u0440\u0430\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1806,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Nishon tumani",
+                "name_ru": "\u041d\u0438\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Nishon district",
+                "name_cyr": "\u041d\u0438\u0448\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1807,
+                "order_number": 12
+            },
+            {
+                "name_uz": "Chiroqchi tumani",
+                "name_ru": "\u0427\u0438\u0440\u0430\u043a\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chirakchi district",
+                "name_cyr": "\u0427\u0438\u0440\u043e\u049b\u0447\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1809,
+                "order_number": 13
+            },
+            {
+                "name_uz": "Ko\u2018kdala tumani",
+                "name_ru": "\u041a\u0443\u043a\u0434\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Kukdala district",
+                "name_cyr": "\u041a\u045e\u043a\u0434\u0430\u043b\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1808,
+                "order_number": 14
+            },
+            {
+                "name_uz": "Shahrisabz tumani",
+                "name_ru": "\u0428\u0430\u0445\u0440\u0438\u0441\u0430\u0431\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shakhrisabz district",
+                "name_cyr": "\u0428\u0430\u04b3\u0440\u0438\u0441\u0430\u0431\u0437 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1810,
+                "order_number": 15
+            },
+            {
+                "name_uz": "Shahrisabz shahri",
+                "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0428\u0430\u0445\u0440\u0438\u0441\u0430\u0431\u0437",
+                "name_en": "Shakhrisabz city",
+                "name_cyr": "\u0428\u0430\u04b3\u0440\u0438\u0441\u0430\u0431\u0437 \u0448\u0430\u04b3\u0440\u0438",
+                "cadastr_id": 1816,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Yakkabog' tumani",
+                "name_ru": "\u042f\u043a\u043a\u0430\u0431\u0430\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yakkabog district",
+                "name_cyr": "\u042f\u043a\u043a\u0430\u0431\u043e\u0493 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1811,
+                "order_number": 16
+            }
+        ],
+        "region": {
+            "name_uz": "QASHQADARYO VILOYATI",
+            "name_ru": "\u041a\u0410\u0428\u041a\u0410\u0414\u0410\u0420\u042c\u0418\u041d\u0421\u041a\u0410\u042f \u041e\u0411\u041b\u0410\u0421\u0422\u042c",
+            "name_en": "KASHKADARYA REGION",
+            "name_cyr": "\u049a\u0410\u0428\u049a\u0410\u0414\u0410\u0420\u0401 \u0412\u0418\u041b\u041e\u042f\u0422\u0418",
+            "cadastr_id": 18,
+            "order_number": 13
+        }
+    },
+    {
+        "districts": [
+            {
+                "name_uz": "Bektemir tumani",
+                "name_ru": "\u0411\u0435\u043a\u0442\u0435\u043c\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Bektemir district",
+                "name_cyr": "\u0411\u0435\u043a\u0442\u0435\u043c\u0438\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1002,
+                "order_number": 1
+            },
+            {
+                "name_uz": "Mirobod tumani",
+                "name_ru": "\u041c\u0438\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Mirabad district",
+                "name_cyr": "\u041c\u0438\u0440\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1011,
+                "order_number": 3
+            },
+            {
+                "name_uz": "Mirzo-Ulug'bek tumani",
+                "name_ru": "\u041c\u0438\u0440\u0437\u043e-\u0423\u043b\u0443\u0433\u0431\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Mirzo-Ulugbek district",
+                "name_cyr": "\u041c\u0438\u0440\u0437\u043e-\u0423\u043b\u0443\u0493\u0431\u0435\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1009,
+                "order_number": 2
+            },
+            {
+                "name_uz": "Sergeli tumani",
+                "name_ru": "\u0421\u0435\u0440\u0433\u0435\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Sergeli district",
+                "name_cyr": "\u0421\u0435\u0440\u0433\u0435\u043b\u0438 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1006,
+                "order_number": 5
+            },
+            {
+                "name_uz": "Olmazor tumani",
+                "name_ru": "\u0410\u043b\u043c\u0430\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Olmazar district",
+                "name_cyr": "\u041e\u043b\u043c\u0430\u0437\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1008,
+                "order_number": 4
+            },
+            {
+                "name_uz": "Uchtepa tumani",
+                "name_ru": "\u0423\u0447\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Uchtepa district",
+                "name_cyr": "\u0423\u0447\u0442\u0435\u043f\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1001,
+                "order_number": 6
+            },
+            {
+                "name_uz": "Shayxontohur tumani",
+                "name_ru": "\u0428\u0430\u0439\u0445\u0430\u043d\u0442\u0430\u0445\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Shaykhontohur district",
+                "name_cyr": "\u0428\u0430\u0439\u0445\u043e\u043d\u0442\u043e\u04b3\u0443\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1010,
+                "order_number": 8
+            },
+            {
+                "name_uz": "Yashnobod tumani",
+                "name_ru": "\u042f\u0448\u043d\u043e\u0431\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yashnobod district",
+                "name_cyr": "\u042f\u0448\u043d\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1004,
+                "order_number": 11
+            },
+            {
+                "name_uz": "Chilonzor tumani",
+                "name_ru": "\u0427\u0438\u043b\u0430\u043d\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Chilanzar district",
+                "name_cyr": "\u0427\u0438\u043b\u043e\u043d\u0437\u043e\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1003,
+                "order_number": 7
+            },
+            {
+                "name_uz": "Yunusobod tumani",
+                "name_ru": "\u042e\u043d\u0443\u0441\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yunusabad district",
+                "name_cyr": "\u042e\u043d\u0443\u0441\u043e\u0431\u043e\u0434 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1007,
+                "order_number": 9
+            },
+            {
+                "name_uz": "Yakkasaroy tumani",
+                "name_ru": "\u042f\u043a\u043a\u0430\u0441\u0430\u0440\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yakkasaray district",
+                "name_cyr": "\u042f\u043a\u043a\u0430\u0441\u0430\u0440\u043e\u0439 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1005,
+                "order_number": 10
+            },
+            {
+                "name_uz": "Yangihayot tumani",
+                "name_ru": "\u042f\u043d\u0433\u0438\u0445\u0430\u044f\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "name_en": "Yangihayot district",
+                "name_cyr": "\u042f\u043d\u0433\u0438\u04b3\u0430\u0451\u0442 \u0442\u0443\u043c\u0430\u043d\u0438",
+                "cadastr_id": 1012,
+                "order_number": 12
+            }
+        ],
+        "region": {
+            "name_uz": "TOSHKENT SHAHRI",
+            "name_ru": "\u0413\u041e\u0420\u041e\u0414 \u0422\u0410\u0428\u041a\u0415\u041d\u0422",
+            "name_en": "TASHKENT CITY",
+            "name_cyr": "\u0422\u041e\u0428\u041aE\u041d\u0422 \u0428\u0410\u04b2\u0420\u0418",
+            "cadastr_id": 10,
+            "order_number": 14
+        }
+    }
+]
